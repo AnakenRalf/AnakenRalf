@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnakenRalf
 - 👀 I’m interested in testing and building useful tools
-- 🌱 I’m currently learning React, Threejs, Blender and Golang
+- 🌱 I’m currently learning some coding
 - 📫 How to reach me : anaken@gmail.com
 
 <!---
